@@ -1,0 +1,176 @@
+[
+  {
+    "query": "men's cotton knitted t-shirt",
+    "expect_ids": [
+      "TARIFF-H-6109",
+      "TARIFF-L-6109.1000"
+    ],
+    "note": "core happy path",
+    "chapter": "61"
+  },
+  {
+    "query": "mardana sooti knitted t-shirt",
+    "expect_ids": [
+      "TARIFF-H-6109",
+      "TARIFF-L-6109.1000"
+    ],
+    "note": "Roman Urdu for men's cotton - tests the multilingual embedding",
+    "chapter": "61"
+  },
+  {
+    "query": "women's woven cotton blouse",
+    "expect_ids": [
+      "TARIFF-H-6206"
+    ],
+    "note": "chapter 62, blouses",
+    "chapter": "62"
+  },
+  {
+    "query": "men's woven denim jeans",
+    "expect_ids": [
+      "TARIFF-H-6203",
+      "TARIFF-L-6203.4200"
+    ],
+    "note": "trousers of cotton, chapter 62",
+    "chapter": "62"
+  },
+  {
+    "query": "babies garments knitted",
+    "expect_ids": [
+      "TARIFF-H-6111"
+    ],
+    "note": "should also surface the babies' note once notes are loaded",
+    "chapter": "61"
+  },
+  {
+    "query": "ladies knitted sweater pullover",
+    "expect_ids": [
+      "TARIFF-H-6110"
+    ],
+    "note": "jerseys, pullovers, cardigans",
+    "chapter": "61"
+  },
+  {
+    "query": "zanana woven cotton trousers",
+    "expect_ids": [
+      "TARIFF-H-6204"
+    ],
+    "note": "Roman Urdu for women's",
+    "chapter": "62"
+  },
+  {
+    "query": "men's knitted shirt",
+    "expect_ids": [
+      "TARIFF-H-6105"
+    ],
+    "note": "6105 vs 6205 - the knitted/woven split",
+    "chapter": "61"
+  },
+  {
+    "query": "men's woven shirt",
+    "expect_ids": [
+      "TARIFF-H-6205"
+    ],
+    "note": "the woven twin of the case above",
+    "chapter": "62"
+  },
+  {
+    "query": "socks and stockings knitted",
+    "expect_ids": [
+      "TARIFF-H-6115"
+    ],
+    "note": "hosiery",
+    "chapter": "61"
+  },
+  {
+    "query": "gloves mittens knitted",
+    "expect_ids": [
+      "TARIFF-H-6116"
+    ],
+    "note": "accessories",
+    "chapter": "61"
+  },
+  {
+    "query": "track suit knitted",
+    "expect_ids": [
+      "TARIFF-H-6112"
+    ],
+    "note": "track suits, ski suits, swimwear",
+    "chapter": "61"
+  },
+  {
+    "query": "which chapter covers knitted garments",
+    "expect_ids": [
+      "CH61-N1"
+    ],
+    "note": "legal note",
+    "chapter": ""
+  },
+  {
+    "query": "how is a blended fabric classified when no fibre predominates",
+    "expect_ids": [
+      "SEC-XI-N2A"
+    ],
+    "note": "the predominant-by-weight rule",
+    "chapter": ""
+  },
+  {
+    "query": "garment cannot be identified as men's or women's",
+    "expect_ids": [
+      "CH61-N9-GENDER",
+      "CH62-N9-GENDER"
+    ],
+    "note": "the gender default rule",
+    "chapter": ""
+  },
+  {
+    "query": "t-shirt with a ribbed waistband",
+    "expect_ids": [
+      "CH61-N5"
+    ],
+    "note": "the 6109 exclusion",
+    "chapter": "61"
+  },
+  {
+    "query": "baby clothes body height 86 cm",
+    "expect_ids": [
+      "CH61-N6"
+    ],
+    "note": "babies' garments definition",
+    "chapter": "61"
+  },
+  {
+    "query": "is a knitted garment covered by chapter 62",
+    "expect_ids": [
+      "CH62-N1"
+    ],
+    "note": "the exclusion that makes Level 1 nearly deterministic",
+    "chapter": ""
+  },
+  {
+    "query": "shirt and trousers sold together as a set",
+    "expect_ids": [
+      "SEC-XI-N14"
+    ],
+    "note": "sets are classified separately",
+    "chapter": ""
+  },
+  {
+    "query": "scarf 50 cm square",
+    "expect_ids": [
+      "CH62-N8-SCARVES"
+    ],
+    "note": "the 60 cm rule",
+    "chapter": "62"
+  },
+  {
+    "query": "goods classifiable under two or more headings which one wins",
+    "expect_ids": [
+      "GRI-3A",
+      "GRI-3B",
+      "GRI-3C"
+    ],
+    "note": "GRI 3 chain",
+    "chapter": ""
+  }
+]

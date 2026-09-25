@@ -1,0 +1,286 @@
+code,level,description,full_description,duty_cd,parent,chapter,heading,tariff_version
+6101,heading,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, windjackets and similar articles, knitted or crocheted, other than those of heading 61.03","Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, windjackets and similar articles, knitted or crocheted, other than those of heading 61.03",,61,61,6101,FY2026-27
+6101.2000,tariff_line,- Of cotton,Of cotton,20,6101,61,6101,FY2026-27
+6101.3000,tariff_line,- Of man-made fibres,Of man-made fibres,20,6101,61,6101,FY2026-27
+6101.9000,tariff_line,- Of other textile materials,Of other textile materials,20,6101,61,6101,FY2026-27
+6102,heading,"Women's or girls' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, windjackets and similar articles, knitted or crocheted, other than those of heading 61.04","Women's or girls' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, windjackets and similar articles, knitted or crocheted, other than those of heading 61.04",,61,61,6102,FY2026-27
+6102.1000,tariff_line,- Of wool or fine animal hair,Of wool or fine animal hair,20,6102,61,6102,FY2026-27
+6102.2000,tariff_line,- Of cotton,Of cotton,20,6102,61,6102,FY2026-27
+6102.3000,tariff_line,- Of man-made fibres,Of man-made fibres,20,6102,61,6102,FY2026-27
+6102.9000,tariff_line,- Of other textile materials,Of other textile materials,20,6102,61,6102,FY2026-27
+6103,heading,"Men's or boys' suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts (other than swimwear), knitted or crocheted","Men's or boys' suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts (other than swimwear), knitted or crocheted",,61,61,6103,FY2026-27
+6103.1000,tariff_line,- Suits,Suits,20,6103,61,6103,FY2026-27
+6103.2200,tariff_line,- - Of cotton,Ensembles > Of cotton,20,6103,61,6103,FY2026-27
+6103.2300,tariff_line,- - Of synthetic fibres,Ensembles > Of synthetic fibres,20,6103,61,6103,FY2026-27
+6103.2900,tariff_line,- - Of other textile materials,Ensembles > Of other textile materials,20,6103,61,6103,FY2026-27
+6103.3100,tariff_line,- - Of wool or fine animal hair,Jackets and blazers > Of wool or fine animal hair,20,6103,61,6103,FY2026-27
+6103.3200,tariff_line,- - Of cotton,Jackets and blazers > Of cotton,20,6103,61,6103,FY2026-27
+6103.3300,tariff_line,- - Of synthetic fibres,Jackets and blazers > Of synthetic fibres,20,6103,61,6103,FY2026-27
+6103.3900,tariff_line,- - Of other textile materials,Jackets and blazers > Of other textile materials,20,6103,61,6103,FY2026-27
+6103.4100,tariff_line,- - Of wool or fine animal hair,"Trousers, bib and brace overalls, breeches and shorts > Of wool or fine animal hair",20,6103,61,6103,FY2026-27
+6103.4200,tariff_line,- - Of cotton,"Trousers, bib and brace overalls, breeches and shorts > Of cotton",20,6103,61,6103,FY2026-27
+6103.4300,tariff_line,- - Of synthetic fibres,"Trousers, bib and brace overalls, breeches and shorts > Of synthetic fibres",20,6103,61,6103,FY2026-27
+6103.4900,tariff_line,- - Of other textile materials,"Trousers, bib and brace overalls, breeches and shorts > Of other textile materials",20,6103,61,6103,FY2026-27
+6104,heading,"Women's or girls' suits, ensembles, jackets, blazers, dresses, skirts, divided skirts, trousers, bib and brace overalls, breeches and shorts (other than swimwear), knitted or crocheted","Women's or girls' suits, ensembles, jackets, blazers, dresses, skirts, divided skirts, trousers, bib and brace overalls, breeches and shorts (other than swimwear), knitted or crocheted",,61,61,6104,FY2026-27
+6104.1300,tariff_line,- - Of synthetic fibres,Suits > Of synthetic fibres,20,6104,61,6104,FY2026-27
+6104.1900,tariff_line,- - Of other textile materials,Suits > Of other textile materials,20,6104,61,6104,FY2026-27
+6104.2200,tariff_line,- - Of cotton,Ensembles > Of cotton,20,6104,61,6104,FY2026-27
+6104.2300,tariff_line,- - Of synthetic fibres,Ensembles > Of synthetic fibres,20,6104,61,6104,FY2026-27
+6104.2900,tariff_line,- - Of other textile materials,Ensembles > Of other textile materials,20,6104,61,6104,FY2026-27
+6104.3100,tariff_line,- - Of wool or fine animal hair,Jackets and blazers > Of wool or fine animal hair,20,6104,61,6104,FY2026-27
+6104.3200,tariff_line,- - Of cotton,Jackets and blazers > Of cotton,20,6104,61,6104,FY2026-27
+6104.3300,tariff_line,- - Of synthetic fibres,Jackets and blazers > Of synthetic fibres,20,6104,61,6104,FY2026-27
+6104.3900,tariff_line,- - Of other textie materials,Jackets and blazers > Of other textie materials,20,6104,61,6104,FY2026-27
+6104.4100,tariff_line,- - Of wool or fine animal hair,Dresses > Of wool or fine animal hair,20,6104,61,6104,FY2026-27
+6104.4210,tariff_line,- - - Shisha embroidered dresses,Dresses > Of cotton > Shisha embroidered dresses,20,6104,61,6104,FY2026-27
+6104.4290,tariff_line,- - - Other,Dresses > Of cotton > Other,20,6104,61,6104,FY2026-27
+6104.4300,tariff_line,- - Of synthetic fibres,Dresses > Of synthetic fibres,20,6104,61,6104,FY2026-27
+6104.4400,tariff_line,- - Of artificial fibres,Dresses > Of artificial fibres,20,6104,61,6104,FY2026-27
+6104.4900,tariff_line,- - Of other textile materials,Dresses > Of other textile materials,20,6104,61,6104,FY2026-27
+6104.5100,tariff_line,- - Of wool or fine animal hair,Skirts and divided skirts > Of wool or fine animal hair,20,6104,61,6104,FY2026-27
+6104.5200,tariff_line,- - Of cotton,Skirts and divided skirts > Of cotton,20,6104,61,6104,FY2026-27
+6104.5300,tariff_line,- - Of synthetic fibres,Skirts and divided skirts > Of synthetic fibres,20,6104,61,6104,FY2026-27
+6104.5900,tariff_line,- - Of other textile materials,Skirts and divided skirts > Of other textile materials,20,6104,61,6104,FY2026-27
+6104.6100,tariff_line,- - Of wool or fine animal hair,"Trousers, bib and brace overalls, breeches and shorts > Of wool or fine animal hair",20,6104,61,6104,FY2026-27
+6104.6200,tariff_line,- - Of cotton,"Trousers, bib and brace overalls, breeches and shorts > Of cotton",20,6104,61,6104,FY2026-27
+6104.6300,tariff_line,- - Of synthetic fibres,"Trousers, bib and brace overalls, breeches and shorts > Of synthetic fibres",20,6104,61,6104,FY2026-27
+6104.6900,tariff_line,- - Of other textile materials,"Trousers, bib and brace overalls, breeches and shorts > Of other textile materials",20,6104,61,6104,FY2026-27
+6105,heading,"Men's or boys' shirts, knitted or crocheted","Men's or boys' shirts, knitted or crocheted",,61,61,6105,FY2026-27
+6105.1000,tariff_line,- Of cotton,Of cotton,20,6105,61,6105,FY2026-27
+6105.2000,tariff_line,- Of man-made fibres,Of man-made fibres,20,6105,61,6105,FY2026-27
+6105.9000,tariff_line,- Of other textile materials,Of other textile materials,20,6105,61,6105,FY2026-27
+6106,heading,"Women's or girls' blouses, shirts and shirt-blouses, knitted or crocheted","Women's or girls' blouses, shirts and shirt-blouses, knitted or crocheted",,61,61,6106,FY2026-27
+6106.1000,tariff_line,- Of cotton,Of cotton,20,6106,61,6106,FY2026-27
+6106.2000,tariff_line,- Of man-made fibres,Of man-made fibres,20,6106,61,6106,FY2026-27
+6106.9000,tariff_line,- Of other textile materials,Of other textile materials,20,6106,61,6106,FY2026-27
+6107,heading,"Men's or boys' underpants, briefs, nightshirts, pyjamas, bathrobes, dressing gowns and similar articles, knitted or crocheted","Men's or boys' underpants, briefs, nightshirts, pyjamas, bathrobes, dressing gowns and similar articles, knitted or crocheted",,61,61,6107,FY2026-27
+6107.1100,tariff_line,- - Of cotton,Underpants and briefs > Of cotton,20,6107,61,6107,FY2026-27
+6107.1200,tariff_line,- - Of man-made fibres,Underpants and briefs > Of man-made fibres,20,6107,61,6107,FY2026-27
+6107.1900,tariff_line,- - Of other textile materials,Underpants and briefs > Of other textile materials,20,6107,61,6107,FY2026-27
+6107.2110,tariff_line,- - - Nightshirts,Nightshirts and pyjamas > Of cotton > Nightshirts,20,6107,61,6107,FY2026-27
+6107.2120,tariff_line,- - - Pyjamas,Nightshirts and pyjamas > Of cotton > Pyjamas,20,6107,61,6107,FY2026-27
+6107.2210,tariff_line,- - - Nightshirts,Nightshirts and pyjamas > Of man-made fibres > Nightshirts,20,6107,61,6107,FY2026-27
+6107.2220,tariff_line,- - - Pyjamas,Nightshirts and pyjamas > Of man-made fibres > Pyjamas,20,6107,61,6107,FY2026-27
+6107.2900,tariff_line,- - Of other textile materials,Nightshirts and pyjamas > Of other textile materials,20,6107,61,6107,FY2026-27
+6107.9100,tariff_line,- - Of cotton,Other > Of cotton,20,6107,61,6107,FY2026-27
+6107.9900,tariff_line,- - Of other textile materials,Other > Of other textile materials,20,6107,61,6107,FY2026-27
+6108,heading,"Women's or girls' slips, petticoats, briefs, panties, nightdresses, pyjamas, négligés, bathrobes, dressing gowns and similar articles, knitted or crocheted","Women's or girls' slips, petticoats, briefs, panties, nightdresses, pyjamas, négligés, bathrobes, dressing gowns and similar articles, knitted or crocheted",,61,61,6108,FY2026-27
+6108.1100,tariff_line,- - Of man-made fibres,Slips and petticoats > Of man-made fibres,20,6108,61,6108,FY2026-27
+6108.1900,tariff_line,- - Of other textile materials,Slips and petticoats > Of other textile materials,20,6108,61,6108,FY2026-27
+6108.2100,tariff_line,- - Of cotton,Briefs and panties > Of cotton,20,6108,61,6108,FY2026-27
+6108.2200,tariff_line,- - Of man-made fibres,Briefs and panties > Of man-made fibres,20,6108,61,6108,FY2026-27
+6108.2900,tariff_line,- - Of other textile materials,Briefs and panties > Of other textile materials,20,6108,61,6108,FY2026-27
+6108.3100,tariff_line,- - Of cotton,Nightdresses and pyjamas > Of cotton,20,6108,61,6108,FY2026-27
+6108.3200,tariff_line,- - Of man-made fibres,Nightdresses and pyjamas > Of man-made fibres,20,6108,61,6108,FY2026-27
+6108.3900,tariff_line,- - Of other textile materials,Nightdresses and pyjamas > Of other textile materials,20,6108,61,6108,FY2026-27
+6108.9100,tariff_line,- - Of cotton,Other > Of cotton,20,6108,61,6108,FY2026-27
+6108.9200,tariff_line,- - Of man-made fibres,Other > Of man-made fibres,20,6108,61,6108,FY2026-27
+6108.9900,tariff_line,- - Of other textile materials,Other > Of other textile materials,20,6108,61,6108,FY2026-27
+6109,heading,"T-shirts, singlets and other vests, knitted or crocheted","T-shirts, singlets and other vests, knitted or crocheted",,61,61,6109,FY2026-27
+6109.1000,tariff_line,- Of cotton,Of cotton,20,6109,61,6109,FY2026-27
+6109.9010,tariff_line,- - - Baluchi/Peshawari vest,Of other textile materials > Baluchi/Peshawari vest,20,6109,61,6109,FY2026-27
+6109.9090,tariff_line,- - - Other,Of other textile materials > Other,20,6109,61,6109,FY2026-27
+6110,heading,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted","Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",,61,61,6110,FY2026-27
+6110.1100,tariff_line,- - Of wool,Of wool or fine animal hair > Of wool,20,6110,61,6110,FY2026-27
+6110.1200,tariff_line,- - Of Kashmir (cashmere) goats,Of wool or fine animal hair > Of Kashmir (cashmere) goats,20,6110,61,6110,FY2026-27
+6110.1900,tariff_line,- - Other,Of wool or fine animal hair > Other,20,6110,61,6110,FY2026-27
+6110.2000,tariff_line,- Of cotton,Of cotton,20,6110,61,6110,FY2026-27
+6110.3000,tariff_line,- Of man-made fibres,Of man-made fibres,20,6110,61,6110,FY2026-27
+6110.9000,tariff_line,- Of other textile materials,Of other textile materials,20,6110,61,6110,FY2026-27
+6111,heading,"Babies' garments and clothing accessories, knitted or crocheted","Babies' garments and clothing accessories, knitted or crocheted",,61,61,6111,FY2026-27
+6111.2000,tariff_line,- Of cotton,Of cotton,20,6111,61,6111,FY2026-27
+6111.3000,tariff_line,- Of synthetic fibres,Of synthetic fibres,20,6111,61,6111,FY2026-27
+6111.9000,tariff_line,- Of other textile materials,Of other textile materials,20,6111,61,6111,FY2026-27
+6112,heading,"Track suits, ski suits and swimwear, knitted or crocheted","Track suits, ski suits and swimwear, knitted or crocheted",,61,61,6112,FY2026-27
+6112.1100,tariff_line,- - Of cotton,Track suits > Of cotton,20,6112,61,6112,FY2026-27
+6112.1200,tariff_line,- - Of synthetic fibres,Track suits > Of synthetic fibres,20,6112,61,6112,FY2026-27
+6112.1900,tariff_line,- - Of other textile materials,Track suits > Of other textile materials,20,6112,61,6112,FY2026-27
+6112.2000,tariff_line,- Ski suits,Ski suits,20,6112,61,6112,FY2026-27
+6112.3100,tariff_line,- - Of synthetic fibres,Men's or boys' swimwear > Of synthetic fibres,20,6112,61,6112,FY2026-27
+6112.3900,tariff_line,- - Of other textile materials,Men's or boys' swimwear > Of other textile materials,20,6112,61,6112,FY2026-27
+6112.4100,tariff_line,- - Of synthetic fibres,Women's or girls' swimwear > Of synthetic fibres,20,6112,61,6112,FY2026-27
+6112.4900,tariff_line,- - Of other textile materials,Women's or girls' swimwear > Of other textile materials,20,6112,61,6112,FY2026-27
+6113.0000,tariff_line,"Garments, made up of knitted or crocheted fabrics of heading 59.03, 59.06 or 59.07","Garments, made up of knitted or crocheted fabrics of heading 59.03, 59.06 or 59.07",20,6113,61,6113,FY2026-27
+6114,heading,"Other garments, knitted or crocheted","Other garments, knitted or crocheted",,61,61,6114,FY2026-27
+6114.2000,tariff_line,- Of cotton,Of cotton,20,6114,61,6114,FY2026-27
+6114.3000,tariff_line,- Of man-made fibres,Of man-made fibres,20,6114,61,6114,FY2026-27
+6114.9000,tariff_line,- Of other textile materials,Of other textile materials,20,6114,61,6114,FY2026-27
+6115,heading,"Panty hose, tights, stockings, socks and other hosiery, including graduated compression hosiery (for example, stockings for varicose veins) and footwear without applied soles, knitted or crocheted","Panty hose, tights, stockings, socks and other hosiery, including graduated compression hosiery (for example, stockings for varicose veins) and footwear without applied soles, knitted or crocheted",,61,61,6115,FY2026-27
+6115.1010,tariff_line,- - - Socks,"Graduated compression hosiery (for example, stockings > Socks",20,6115,61,6115,FY2026-27
+6115.1090,tariff_line,- - - Other,"Graduated compression hosiery (for example, stockings > Other",20,6115,61,6115,FY2026-27
+6115.2100,tariff_line,"- - Of synthetic fibres, measuring per single yarn less than 67 decitex","Other panty hose and tights > Of synthetic fibres, measuring per single yarn less than 67 decitex",20,6115,61,6115,FY2026-27
+6115.2200,tariff_line,"- - Of synthetic fibres, measuring per single yarn","Other panty hose and tights > Of synthetic fibres, measuring per single yarn",67,6115,61,6115,FY2026-27
+6115.2900,tariff_line,- - Of other textile materials,Other panty hose and tights > Of other textile materials,20,6115,61,6115,FY2026-27
+6115.3010,tariff_line,- - - Socks,"Other women's full-length or knee-length hosiery, > Socks",20,6115,61,6115,FY2026-27
+6115.3090,tariff_line,- - - Other,"Other women's full-length or knee-length hosiery, > Other",20,6115,61,6115,FY2026-27
+6115.9400,tariff_line,- - Of wool or fine animal hair,Other > Of wool or fine animal hair,20,6115,61,6115,FY2026-27
+6115.9500,tariff_line,- - Of cotton,Other > Of cotton,20,6115,61,6115,FY2026-27
+6115.9600,tariff_line,- - Of synthetic fibres,Other > Of synthetic fibres,20,6115,61,6115,FY2026-27
+6115.9900,tariff_line,- - Of other textile materials,Other > Of other textile materials,20,6115,61,6115,FY2026-27
+6116,heading,"Gloves, mittens and mitts, knitted or crocheted","Gloves, mittens and mitts, knitted or crocheted",,61,61,6116,FY2026-27
+6116.1000,tariff_line,"- Impregnated, coated, covered or laminated with plastics or rubber","Impregnated, coated, covered or laminated with plastics or rubber",20,6116,61,6116,FY2026-27
+6116.9100,tariff_line,- - Of wool or fine animal hair,Other > Of wool or fine animal hair,20,6116,61,6116,FY2026-27
+6116.9200,tariff_line,- - Of cotton,Other > Of cotton,20,6116,61,6116,FY2026-27
+6116.9300,tariff_line,- - Of synthetic fibres,Other > Of synthetic fibres,20,6116,61,6116,FY2026-27
+6116.9900,tariff_line,- - Of other textile materials,Other > Of other textile materials,20,6116,61,6116,FY2026-27
+6117,heading,"Other made up clothing accessories, knitted or crocheted; knitted or crocheted parts of garments or of clothing accessories","Other made up clothing accessories, knitted or crocheted; knitted or crocheted parts of garments or of clothing accessories",,61,61,6117,FY2026-27
+6117.1010,tariff_line,- - - Shawls,"Shawls, scarves, mufflers,mantillas, veils and the like > Shawls",20,6117,61,6117,FY2026-27
+6117.1020,tariff_line,- - - Scarves,"Shawls, scarves, mufflers,mantillas, veils and the like > Scarves",20,6117,61,6117,FY2026-27
+6117.1030,tariff_line,- - - Dupatta,"Shawls, scarves, mufflers,mantillas, veils and the like > Dupatta",20,6117,61,6117,FY2026-27
+6117.1040,tariff_line,- - - Veils (burqa),"Shawls, scarves, mufflers,mantillas, veils and the like > Veils (burqa)",20,6117,61,6117,FY2026-27
+6117.1090,tariff_line,- - - Other,"Shawls, scarves, mufflers,mantillas, veils and the like > Other",20,6117,61,6117,FY2026-27
+6117.8000,tariff_line,- Other accessories,Other accessories,20,6117,61,6117,FY2026-27
+6117.9000,tariff_line,- Parts,Parts,20,6117,61,6117,FY2026-27
+6201,heading,"Men’s or boys’ overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, windjackets and similar articles, other than those of heading 62.03","Men’s or boys’ overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, windjackets and similar articles, other than those of heading 62.03",,62,62,6201,FY2026-27
+6201.2000,tariff_line,- Of wool or fine animal hair,Of wool or fine animal hair,20,6201,62,6201,FY2026-27
+6201.3000,tariff_line,- Of cotton,Of cotton,20,6201,62,6201,FY2026-27
+6201.4000,tariff_line,- Of man-made fibres,Of man-made fibres,20,6201,62,6201,FY2026-27
+6201.9000,tariff_line,- Of other textile materials,Of other textile materials,20,6201,62,6201,FY2026-27
+6202,heading,"Women's or girls' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, windjackets and similar articles, other than those of heading 62.04","Women's or girls' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, windjackets and similar articles, other than those of heading 62.04",,62,62,6202,FY2026-27
+6202.2000,tariff_line,- Of wool or fine animal hair,Of wool or fine animal hair,20,6202,62,6202,FY2026-27
+6202.3000,tariff_line,- Of cotton,Of cotton,20,6202,62,6202,FY2026-27
+6202.4000,tariff_line,- Of man-made fibres,Of man-made fibres,20,6202,62,6202,FY2026-27
+6202.9000,tariff_line,- Of other textile materials,Of other textile materials,20,6202,62,6202,FY2026-27
+6203,heading,"Men's or boys' suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts (other than swimwear)","Men's or boys' suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts (other than swimwear)",,62,62,6203,FY2026-27
+6203.1100,tariff_line,- - Of wool or fine animal hair,Suits > Of wool or fine animal hair,20,6203,62,6203,FY2026-27
+6203.1200,tariff_line,- - Of synthetic fibres,Suits > Of synthetic fibres,20,6203,62,6203,FY2026-27
+6203.1910,tariff_line,- - - Men's or boys' suits of cotton,Suits > Of other textile materials > Men's or boys' suits of cotton,20,6203,62,6203,FY2026-27
+6203.1990,tariff_line,- - - Other,Suits > Of other textile materials > Other,20,6203,62,6203,FY2026-27
+6203.2200,tariff_line,- - Of cotton,Ensembles > Of cotton,20,6203,62,6203,FY2026-27
+6203.2300,tariff_line,- - Of synthetic fibres,Ensembles > Of synthetic fibres,20,6203,62,6203,FY2026-27
+6203.2900,tariff_line,- - Of other textile materials,Ensembles > Of other textile materials,20,6203,62,6203,FY2026-27
+6203.3100,tariff_line,- - Of wool or fine animal hair,Jackets and blazers > Of wool or fine animal hair,20,6203,62,6203,FY2026-27
+6203.3200,tariff_line,- - Of cotton,Jackets and blazers > Of cotton,20,6203,62,6203,FY2026-27
+6203.3300,tariff_line,- - Of synthetic fibres,Jackets and blazers > Of synthetic fibres,20,6203,62,6203,FY2026-27
+6203.3900,tariff_line,- - Of other textile materials,Jackets and blazers > Of other textile materials,20,6203,62,6203,FY2026-27
+6203.4110,tariff_line,- - - Trousers,"Trousers, bib and brace overalls, breeches and shorts > Of wool or fine animal hair > Trousers",20,6203,62,6203,FY2026-27
+6203.4190,tariff_line,- - - Other,"Trousers, bib and brace overalls, breeches and shorts > Of wool or fine animal hair > Other",20,6203,62,6203,FY2026-27
+6203.4200,tariff_line,- - Of cotton,"Trousers, bib and brace overalls, breeches and shorts > Of cotton",20,6203,62,6203,FY2026-27
+6203.4300,tariff_line,- - Of synthetic fibres,"Trousers, bib and brace overalls, breeches and shorts > Of synthetic fibres",20,6203,62,6203,FY2026-27
+6203.4900,tariff_line,- - Of other textile materials,"Trousers, bib and brace overalls, breeches and shorts > Of other textile materials",20,6203,62,6203,FY2026-27
+6204,heading,"Women's or girls' suits, ensembles, jackets, blazers, dresses, skirts, divided skirts, trousers, bib and brace overalls, breeches and shorts (other than swimwear)","Women's or girls' suits, ensembles, jackets, blazers, dresses, skirts, divided skirts, trousers, bib and brace overalls, breeches and shorts (other than swimwear)",,62,62,6204,FY2026-27
+6204.1100,tariff_line,- - Of wool or fine animal hair,Suits > Of wool or fine animal hair,20,6204,62,6204,FY2026-27
+6204.1200,tariff_line,- - Of cotton,Suits > Of cotton,20,6204,62,6204,FY2026-27
+6204.1300,tariff_line,- - Of synthetic fibres,Suits > Of synthetic fibres,20,6204,62,6204,FY2026-27
+6204.1900,tariff_line,- - Of other textile materials,Suits > Of other textile materials,20,6204,62,6204,FY2026-27
+6204.2100,tariff_line,- - Of wool or fine animal hair,Ensembles > Of wool or fine animal hair,20,6204,62,6204,FY2026-27
+6204.2200,tariff_line,- - Of cotton,Ensembles > Of cotton,20,6204,62,6204,FY2026-27
+6204.2300,tariff_line,- - Of synthetic fibres,Ensembles > Of synthetic fibres,20,6204,62,6204,FY2026-27
+6204.2900,tariff_line,- - Of other textile materials,Ensembles > Of other textile materials,20,6204,62,6204,FY2026-27
+6204.3100,tariff_line,- - Of wool or fine animal hair,Jackets and blazers > Of wool or fine animal hair,20,6204,62,6204,FY2026-27
+6204.3200,tariff_line,- - Of cotton,Jackets and blazers > Of cotton,20,6204,62,6204,FY2026-27
+6204.3300,tariff_line,- - Of synthetic fibres,Jackets and blazers > Of synthetic fibres,20,6204,62,6204,FY2026-27
+6204.3900,tariff_line,- - Of other textile materials,Jackets and blazers > Of other textile materials,20,6204,62,6204,FY2026-27
+6204.4100,tariff_line,- - Of wool or fine animal hair,Dresses > Of wool or fine animal hair,20,6204,62,6204,FY2026-27
+6204.4210,tariff_line,- - - Shisha embroidered dresses,Dresses > Of cotton > Shisha embroidered dresses,20,6204,62,6204,FY2026-27
+6204.4290,tariff_line,- - - other,Dresses > Of cotton > other,20,6204,62,6204,FY2026-27
+6204.4300,tariff_line,- - Of synthetic fibres,Dresses > Of synthetic fibres,20,6204,62,6204,FY2026-27
+6204.4400,tariff_line,- - Of artificial fibres,Dresses > Of artificial fibres,20,6204,62,6204,FY2026-27
+6204.4900,tariff_line,- - Of other textile materials,Dresses > Of other textile materials,20,6204,62,6204,FY2026-27
+6204.5100,tariff_line,- - Of wool or fine animal hair,Skirts and divided skirts > Of wool or fine animal hair,20,6204,62,6204,FY2026-27
+6204.5200,tariff_line,- - Of cotton,Skirts and divided skirts > Of cotton,20,6204,62,6204,FY2026-27
+6204.5300,tariff_line,- - Of synthetic fibres,Skirts and divided skirts > Of synthetic fibres,20,6204,62,6204,FY2026-27
+6204.5900,tariff_line,- - Of other textile materials,Skirts and divided skirts > Of other textile materials,20,6204,62,6204,FY2026-27
+6204.6100,tariff_line,- - Of wool or fine animal hair,"Trousers, bib and brace overalls, breeches and shorts > Of wool or fine animal hair",20,6204,62,6204,FY2026-27
+6204.6210,tariff_line,- - - Ghagra,"Trousers, bib and brace overalls, breeches and shorts > Of cotton > Ghagra",20,6204,62,6204,FY2026-27
+6204.6220,tariff_line,- - - Charara,"Trousers, bib and brace overalls, breeches and shorts > Of cotton > Charara",20,6204,62,6204,FY2026-27
+6204.6290,tariff_line,- - - Other,"Trousers, bib and brace overalls, breeches and shorts > Of cotton > Other",20,6204,62,6204,FY2026-27
+6204.6310,tariff_line,- - - Ghagra,"Trousers, bib and brace overalls, breeches and shorts > Of synthetic fibres > Ghagra",20,6204,62,6204,FY2026-27
+6204.6320,tariff_line,- - - Charara,"Trousers, bib and brace overalls, breeches and shorts > Of synthetic fibres > Charara",20,6204,62,6204,FY2026-27
+6204.6390,tariff_line,- - - Other,"Trousers, bib and brace overalls, breeches and shorts > Of synthetic fibres > Other",20,6204,62,6204,FY2026-27
+6204.6910,tariff_line,- - - Ghagra,"Trousers, bib and brace overalls, breeches and shorts > Of other textile materials > Ghagra",20,6204,62,6204,FY2026-27
+6204.6920,tariff_line,- - - Charara,"Trousers, bib and brace overalls, breeches and shorts > Of other textile materials > Charara",20,6204,62,6204,FY2026-27
+6204.6990,tariff_line,- - - Other,"Trousers, bib and brace overalls, breeches and shorts > Of other textile materials > Other",20,6204,62,6204,FY2026-27
+6205,heading,Men's or boys' shirts,Men's or boys' shirts,,62,62,6205,FY2026-27
+6205.2010,tariff_line,- - - Baluchi kameez,Of cotton > Baluchi kameez,20,6205,62,6205,FY2026-27
+6205.2020,tariff_line,- - - Kurta,Of cotton > Kurta,20,6205,62,6205,FY2026-27
+6205.2090,tariff_line,- - - Other,Of cotton > Other,20,6205,62,6205,FY2026-27
+6205.3000,tariff_line,- Of man-made fibres,Of man-made fibres,20,6205,62,6205,FY2026-27
+6205.9010,tariff_line,- - - Of wool or fine animal hair,Of other textile materials > Of wool or fine animal hair,20,6205,62,6205,FY2026-27
+6205.9090,tariff_line,- - - Other,Of other textile materials > Other,20,6205,62,6205,FY2026-27
+6206,heading,"Women's or girls' blouses, shirts and shirt-blouses","Women's or girls' blouses, shirts and shirt-blouses",,62,62,6206,FY2026-27
+6206.1000,tariff_line,- Of silk or silk waste,Of silk or silk waste,20,6206,62,6206,FY2026-27
+6206.2000,tariff_line,- Of wool or fine animal hair,Of wool or fine animal hair,20,6206,62,6206,FY2026-27
+6206.3010,tariff_line,- - - Multani choli,Of cotton > Multani choli,20,6206,62,6206,FY2026-27
+6206.3020,tariff_line,- - - Punjabi kameez,Of cotton > Punjabi kameez,20,6206,62,6206,FY2026-27
+6206.3030,tariff_line,- - - Baluchi kameez,Of cotton > Baluchi kameez,20,6206,62,6206,FY2026-27
+6206.3040,tariff_line,- - - Kurta,Of cotton > Kurta,20,6206,62,6206,FY2026-27
+6206.3090,tariff_line,- - - Other,Of cotton > Other,20,6206,62,6206,FY2026-27
+6206.4010,tariff_line,- - - Multani choli,Of man-made fibres > Multani choli,20,6206,62,6206,FY2026-27
+6206.4020,tariff_line,- - - Punjabi kameez,Of man-made fibres > Punjabi kameez,20,6206,62,6206,FY2026-27
+6206.4030,tariff_line,- - - Baluchi kameez,Of man-made fibres > Baluchi kameez,20,6206,62,6206,FY2026-27
+6206.4040,tariff_line,- - - Kurta,Of man-made fibres > Kurta,20,6206,62,6206,FY2026-27
+6206.4090,tariff_line,- - - Other,Of man-made fibres > Other,20,6206,62,6206,FY2026-27
+6206.9010,tariff_line,- - - Multani choli,Of other textile materials > Multani choli,20,6206,62,6206,FY2026-27
+6206.9020,tariff_line,- - - Punjabi kameez,Of other textile materials > Punjabi kameez,20,6206,62,6206,FY2026-27
+6206.9030,tariff_line,- - - Baluchi kameez,Of other textile materials > Baluchi kameez,20,6206,62,6206,FY2026-27
+6206.9040,tariff_line,- - - Kurta,Of other textile materials > Kurta,20,6206,62,6206,FY2026-27
+6206.9090,tariff_line,- - - Other,Of other textile materials > Other,20,6206,62,6206,FY2026-27
+6207,heading,"Men's or boys' singlets and other vests, underpants, briefs, nightshirts, pyjamas, bathrobes, dressing gowns and similar articles","Men's or boys' singlets and other vests, underpants, briefs, nightshirts, pyjamas, bathrobes, dressing gowns and similar articles",,62,62,6207,FY2026-27
+6207.1100,tariff_line,- - Of cotton,Underpants and briefs > Of cotton,20,6207,62,6207,FY2026-27
+6207.1910,tariff_line,- - - Baluchi/Peshawari vest,Underpants and briefs > Of other textile materials > Baluchi/Peshawari vest,20,6207,62,6207,FY2026-27
+6207.1990,tariff_line,- - - Other,Underpants and briefs > Of other textile materials > Other,20,6207,62,6207,FY2026-27
+6207.2100,tariff_line,- - Of cotton,Nightshirts and pyjamas > Of cotton,20,6207,62,6207,FY2026-27
+6207.2200,tariff_line,- - Of man-made fibres,Nightshirts and pyjamas > Of man-made fibres,20,6207,62,6207,FY2026-27
+6207.2900,tariff_line,- - Of other textile materials,Nightshirts and pyjamas > Of other textile materials,20,6207,62,6207,FY2026-27
+6207.9100,tariff_line,- - Of cotton,Other > Of cotton,20,6207,62,6207,FY2026-27
+6207.9900,tariff_line,- - Of other textile materials,Other > Of other textile materials,20,6207,62,6207,FY2026-27
+6208,heading,"Women's or girls' singlets and other vests, slips, petticoats, briefs, panties, nightdresses, pyjamas, negliges, bathrobes, dressing gowns and similar articles","Women's or girls' singlets and other vests, slips, petticoats, briefs, panties, nightdresses, pyjamas, negliges, bathrobes, dressing gowns and similar articles",,62,62,6208,FY2026-27
+6208.1100,tariff_line,- - Of man-made fibres,Slips and petticoats > Of man-made fibres,20,6208,62,6208,FY2026-27
+6208.1900,tariff_line,- - Of other textile materials,Slips and petticoats > Of other textile materials,20,6208,62,6208,FY2026-27
+6208.2100,tariff_line,- - Of cotton,Nightdresses and pyjamas > Of cotton,20,6208,62,6208,FY2026-27
+6208.2200,tariff_line,- - Of man-made fibres,Nightdresses and pyjamas > Of man-made fibres,20,6208,62,6208,FY2026-27
+6208.2900,tariff_line,- - Of other textile materials,Nightdresses and pyjamas > Of other textile materials,20,6208,62,6208,FY2026-27
+6208.9100,tariff_line,- - Of cotton,Other > Of cotton,20,6208,62,6208,FY2026-27
+6208.9200,tariff_line,- - Of man-made fibres,Other > Of man-made fibres,20,6208,62,6208,FY2026-27
+6208.9900,tariff_line,- - Of other textile materials,Other > Of other textile materials,20,6208,62,6208,FY2026-27
+6209,heading,Babies' garments and clothing accessories,Babies' garments and clothing accessories,,62,62,6209,FY2026-27
+6209.2010,tariff_line,- - - Babies' garments not knitted or crocheted,Of cotton > Babies' garments not knitted or crocheted,20,6209,62,6209,FY2026-27
+6209.2020,tariff_line,- - - Babies' clothing accessories,Of cotton > Babies' clothing accessories,20,6209,62,6209,FY2026-27
+6209.3000,tariff_line,- Of synthetic fibres,Of synthetic fibres,20,6209,62,6209,FY2026-27
+6209.9010,tariff_line,- - - Babies' garments,Of other textile materials > Babies' garments,20,6209,62,6209,FY2026-27
+6209.9090,tariff_line,- - - Other,Of other textile materials > Other,20,6209,62,6209,FY2026-27
+6210,heading,"Garments made up of fabrics of heading 56.02, 56.03, 59.03, 59.06 or 59.07","Garments made up of fabrics of heading 56.02, 56.03, 59.03, 59.06 or 59.07",,62,62,6210,FY2026-27
+6210.1000,tariff_line,- Of fabrics of heading 56.02 or 56.03,Of fabrics of heading 56.02 or 56.03,20,6210,62,6210,FY2026-27
+6210.2000,tariff_line,"- Other garments, of the type described in subheading","Other garments, of the type described in subheading",62.01,6210,62,6210,FY2026-27
+6210.3000,tariff_line,"- Other garments, of the type described in subheading","Other garments, of the type described in subheading",62.02,6210,62,6210,FY2026-27
+6210.4000,tariff_line,- Other men's or boys' garments,Other men's or boys' garments,20,6210,62,6210,FY2026-27
+6210.5000,tariff_line,- Other women's or girls' garments,Other women's or girls' garments,20,6210,62,6210,FY2026-27
+6211,heading,"Track suits, ski suits and swimwear; other garments","Track suits, ski suits and swimwear; other garments",,62,62,6211,FY2026-27
+6211.1100,tariff_line,- - Men's or boys',Swimwear > Men's or boys',20,6211,62,6211,FY2026-27
+6211.1200,tariff_line,- - Women's or girls',Swimwear > Women's or girls',20,6211,62,6211,FY2026-27
+6211.2000,tariff_line,- Ski suits,Ski suits,20,6211,62,6211,FY2026-27
+6211.3200,tariff_line,- - Of cotton,"Other garments, men's or boys' > Of cotton",20,6211,62,6211,FY2026-27
+6211.3300,tariff_line,- - Of man-made fibres,"Other garments, men's or boys' > Of man-made fibres",20,6211,62,6211,FY2026-27
+6211.3900,tariff_line,- - Of other textile materials,"Other garments, men's or boys' > Of other textile materials",20,6211,62,6211,FY2026-27
+6211.4200,tariff_line,- - Of cotton,"Other garments, women's or girls' > Of cotton",20,6211,62,6211,FY2026-27
+6211.4300,tariff_line,- - Of man-made fibres,"Other garments, women's or girls' > Of man-made fibres",20,6211,62,6211,FY2026-27
+6211.4900,tariff_line,- - Of other textile materials,"Other garments, women's or girls' > Of other textile materials",20,6211,62,6211,FY2026-27
+6212,heading,"Brassieres, girdles, corsets, braces, suspenders, garters and similar articles and parts thereof, whether or not knitted or crocheted","Brassieres, girdles, corsets, braces, suspenders, garters and similar articles and parts thereof, whether or not knitted or crocheted",,62,62,6212,FY2026-27
+6212.1000,tariff_line,- Brassieres,Brassieres,20,6212,62,6212,FY2026-27
+6212.2000,tariff_line,- Girdles and panty-girdles,Girdles and panty-girdles,20,6212,62,6212,FY2026-27
+6212.3000,tariff_line,- Corselettes,Corselettes,20,6212,62,6212,FY2026-27
+6212.9000,tariff_line,- Other,Other,20,6212,62,6212,FY2026-27
+6213,heading,Handkerchiefs,Handkerchiefs,,62,62,6213,FY2026-27
+6213.2000,tariff_line,- Of cotton,Of cotton,20,6213,62,6213,FY2026-27
+6213.9000,tariff_line,- Of other textile materials,Of other textile materials,20,6213,62,6213,FY2026-27
+6214,heading,"Shawls, scarves, mufflers, mantillas, veils and the like","Shawls, scarves, mufflers, mantillas, veils and the like",,62,62,6214,FY2026-27
+6214.1000,tariff_line,- Of silk or silk waste,Of silk or silk waste,20,6214,62,6214,FY2026-27
+6214.2000,tariff_line,- Of wool or fine animal hair,Of wool or fine animal hair,20,6214,62,6214,FY2026-27
+6214.3000,tariff_line,- Of synthetic fibres,Of synthetic fibres,20,6214,62,6214,FY2026-27
+6214.4000,tariff_line,- Of artificial fibres,Of artificial fibres,20,6214,62,6214,FY2026-27
+6214.9010,tariff_line,- - - Shawls,Of other textile materials > Shawls,20,6214,62,6214,FY2026-27
+6214.9020,tariff_line,- - - Scarves,Of other textile materials > Scarves,20,6214,62,6214,FY2026-27
+6214.9030,tariff_line,- - - Dupatta,Of other textile materials > Dupatta,20,6214,62,6214,FY2026-27
+6214.9040,tariff_line,- - - Veils (burqa),Of other textile materials > Veils (burqa),20,6214,62,6214,FY2026-27
+6214.9090,tariff_line,- - - Other,Of other textile materials > Other,20,6214,62,6214,FY2026-27
+6215,heading,"Ties, bow ties and cravats","Ties, bow ties and cravats",,62,62,6215,FY2026-27
+6215.1000,tariff_line,- Of silk or silk waste,Of silk or silk waste,20,6215,62,6215,FY2026-27
+6215.2000,tariff_line,- of man-made fibres,of man-made fibres,20,6215,62,6215,FY2026-27
+6215.9000,tariff_line,- Of other textile materials,Of other textile materials,20,6215,62,6215,FY2026-27
+6216,heading,"Gloves, mittens and mitts","Gloves, mittens and mitts",,62,62,6216,FY2026-27
+6216.0010,tariff_line,- - - Gloves,Gloves,20,6216,62,6216,FY2026-27
+6216.0020,tariff_line,- - - Mittens and mitts,Mittens and mitts,20,6216,62,6216,FY2026-27
+6217,heading,"Other made up clothing accessories; parts of garments or of clothing accessories, other than those of heading 62.12","Other made up clothing accessories; parts of garments or of clothing accessories, other than those of heading 62.12",,62,62,6217,FY2026-27
+6217.1000,tariff_line,- Accessories,Accessories,0,6217,62,6217,FY2026-27
+6217.9000,tariff_line,- Parts,Parts,0,6217,62,6217,FY2026-27
