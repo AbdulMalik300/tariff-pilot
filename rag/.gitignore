@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+.ipynb_checkpoints/
+
+# Vector store is a build artifact: rebuild with index_corpus.py
+data/processed/chroma/
+
+# Raw PDFs are large; keep the text dumps, not the binaries
+data/raw/*.pdf
+
+# Never commit anything with importer names, NTN or invoice values
+data/raw/gd/
+*_raw_gd.*
